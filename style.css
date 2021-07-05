@@ -99,6 +99,7 @@ a{
 }
 .phone:hover .phone-no{
     display: block;
+    transition-duration: .5s;
 }
 .phone-no{
     width: 250px;
@@ -119,3 +120,11 @@ a{
     color: white;
     text-align: center;
 }
+.text-area{
+    width: 90%;
+    margin: 0 auto;
+}
+.text-area h1,h2{
+    text-align: center;
+}
+/*servic area*/
